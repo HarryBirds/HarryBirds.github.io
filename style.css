@@ -36,15 +36,18 @@ a:visited {
   color: blueviolet;
 }
 
+a:active {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+
 a:hover {
   text-decoration: none;
   color: blueviolet;
 }
 
-a:active {
-  text-decoration: none;
-  color: blueviolet;
-}
+
 
 
 .paratext{
