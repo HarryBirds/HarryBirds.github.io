@@ -1,5 +1,5 @@
 html{
-    max-width: 98%;
+	max-width: 98%;
     max-height: fit-content;
 	text-align: center;
     box-sizing: border-box;
@@ -27,28 +27,25 @@ html{
 	border-color: aqua;
 }
 a:link {
-  text-decoration: none;
-  color: blueviolet;
+	text-decoration: none;
+	color: blueviolet;
 }
 
 a:visited {
-  text-decoration: none;
-  color: blueviolet;
+  	text-decoration: none;
+  	color: blueviolet;
 }
 
 a:active {
-  text-decoration: none;
-  color: blueviolet;
+  	text-decoration: none;
+  	color: blueviolet;
 }
 
 
 a:hover {
-  text-decoration: none;
-  color: blueviolet;
+  	text-decoration: none;
+  	color: blueviolet;
 }
-
-
-
 
 .paratext{
     font-size: 16;
