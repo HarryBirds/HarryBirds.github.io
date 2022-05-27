@@ -26,6 +26,25 @@ html{
     border-radius: 5% 50% 50% 50%;
 	border-color: aqua;
 }
+a:link {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+a:visited {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+a:hover {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+a:active {
+  text-decoration: none;
+  color: blueviolet;
+}
 
 
 .paratext{
